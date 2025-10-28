@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Todo App",
+  "description": "A modern and beautiful Todo application built with React, TypeScript, and Tailwind CSS. It allows you to manage your daily tasks with a simple and intuitive interface, and persists your tasks in your browser's local storage.",
+  "requestFramePermissions": []
+}
